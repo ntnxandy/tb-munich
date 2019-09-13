@@ -19,9 +19,9 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Nutanix Technology Bootcamp'
+project = 'Nutanix Technology Bootcamp München'
 copyright = '2019, Nutanix Germany GmbH | '
-author = 'Martin Stenke'
+author = 'Andreas Ehrenreiter'
 
 
 # -- General configuration ---------------------------------------------------
