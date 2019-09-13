@@ -14,9 +14,8 @@ Nutzen Sie die Chance und stellen Ihre Fragen frei heraus!
    :widths: 40
    :header-rows: 1
 
-   * - **Dipl.-Ing. Günter Baumgart**
-   * - .. figure:: images/Guenter_Baumgart.jpg
+   * - **Andreas Ehrenreiter**
+   * - .. figure:: images/AEhrenreiter.png
    * - **Senior Systems Engineer**
-   * - Essen, Nordrhein-Westfalen
-   * - Seit September 2018 bei Nutanix
-   * - *Liebt den Geruch von ge"move"ten" VM's!*
+   * - München, Bayern
+   * - Seit Februar 2006 bei Nutanix
